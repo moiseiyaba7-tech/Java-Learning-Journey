@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class Main7 {
+public class ForLoop1 {
   public static void main(String[] args) {
     Scanner myscan= new Scanner(System.in);
     
